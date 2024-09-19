@@ -1,5 +1,5 @@
-# thoughts
-Random thoughts I have about things
+# blog
+Interesting observations and small projects
 
 [n-Ball Volume](n_ball.pdf)
 Interesting thing I noticed about the volume of n-balls and half-integration
